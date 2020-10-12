@@ -5,9 +5,11 @@ import UIKit
 //: # 1️⃣ for-in loop
 
 //MARK: for- in loop خمس مرات باستخدام ال "iOS" قم بطباعه
-
-
-
+//let ios1 = ios
+//for "ios" in "ios1" {
+//   print("ios * 5")
+//}
+//
 
 //: # 2️⃣ function
 
@@ -16,7 +18,7 @@ import UIKit
 func multiplication(  number1 : Int ,  number2 : Int)
 {
     
-    return number1 * number2
+    return (number1 * number2)
 }
 // MARK:   بما يناسب صيغه هذا الاستدعاء multiplication قم بتعديل  الداله
 
